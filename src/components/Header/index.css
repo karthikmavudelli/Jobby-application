@@ -1,0 +1,29 @@
+.header {
+  background-color: #272727;
+  height: 15vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+.nav-menu {
+  padding-left: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.nav-link {
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 20px;
+}
+.log-out-button {
+  background-color: #4f46e5;
+  padding: 10px;
+  border-width: 0px;
+  color: white;
+  border-radius: 5px;
+}

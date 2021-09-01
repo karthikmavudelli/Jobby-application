@@ -1,0 +1,12 @@
+.employment-types-list {
+  padding-left: 0px;
+  list-style-type: none;
+}
+.types-of-employment {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.checkbox-label {
+  margin-left: 15px;
+}
